@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CoolGame</string>
+    <string name="loger">Default</string>
+    <string name="item1">New User</string>
+    <string name="item11">Menu</string>
+    <string name="bntStart">Start</string>
+    <string name="LoginActivity">CoolGame</string>
+    <string name="NewUsers">NewUsers</string>
+    <string name="MainActivity">MainActivity</string>
+</resources>
